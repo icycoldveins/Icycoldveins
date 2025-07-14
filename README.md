@@ -3,8 +3,6 @@ Hi, I'm Kevin Wijaya!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
- <img src="https://komarev.com/ghpvc/?username=icycoldveins&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="kevinwijaya" />
-
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -81,8 +79,8 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 ## 📊 Github Stats
 
 <p align="center">
-  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=contribs" height="192px"/>
-  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" height="192px"/>
+  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&width=495" height="192px"/>
 </p>
 
 ## 🏆 LeetCode
