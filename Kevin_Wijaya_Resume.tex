@@ -1,0 +1,138 @@
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage[T1]{fontenc}
+\usepackage{helvet} % Use the Helvetica font
+
+\hypersetup{
+    colorlinks=true,
+    urlcolor=black,
+    linkcolor=black,
+    citecolor=black,
+}
+
+% Adjust section spacing for uniformity
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{0.7em}{0.8em}
+\titleformat{\subsection}[runin]{\bfseries}{}{0em}{}[ -- ]
+
+% Tighter item spacing
+\setlist[itemize]{leftmargin=1.3em, itemsep=0.7pt, topsep=0pt, parsep=0pt}
+
+% Custom command to reduce space before itemize
+\newcommand{\tightitems}{\vspace{-5pt}}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+  {\LARGE \textbf{Kevin Wijaya}}\\
+  
+  Philadelphia, PA \textbullet{} \href{mailto:kevinwijaya306@gmail.com}{kevinwijaya306@gmail.com} \textbullet{} (267) 323-6016 \textbullet{} \href{https://www.linkedin.com/in/kevin6302/}{linkedin.com/in/kevin6302} \textbullet{} \href{https://github.com/icycoldveins}{github.com/icycoldveins}
+  \vspace{0.8em}
+\end{center}
+
+%-----------EDUCATION-----------------
+\section*{\textbf{\normalsize EDUCATION}}
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{Temple University} & Philadelphia, PA \\
+  B.S. in Computer Science & Aug 2020 -- May 2024 \\
+  \multicolumn{2}{l}{\textbf{Relevant Courses:} Data Structures \& Algorithms, Operating Systems, Object Oriented Programming, Software Design} \\
+\end{tabular*}
+
+\section*{\textbf{\normalsize TECHNICAL SKILLS}}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{
+    \item{\textbf{Languages:} Python, Java, JavaScript, TypeScript, C++, Go, C\#, SQL, HTML/CSS}
+    \item{\textbf{Frameworks/Tools:} React, Vue.js, Next.js, Node.js, Express.js, Redux, Git, Jira, Postman, Google Maps API, Supabase, Vercel, AG Grid, Tailwind CSS, Zustand
+    }
+  }
+\end{itemize}
+
+\section*{\textbf{\normalsize EXPERIENCE}}
+
+\textbf{\normalsize SnapRefund} \hfill Philadelphia, PA \\
+{Software Engineer} \hfill June 2025 -- Present
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Designed and developed the AgentSnap public API for digital refund workflows using \textbf{Vue.js} and \textbf{TypeScript}.
+    \item Led frontend redesign initiatives, improving user experience and interface consistency.
+    \item Implemented subscription functionality with \textbf{Stripe API} for recurring payments and automated billing.
+\end{itemize}
+
+
+\textbf{\normalsize Tech Tree Root} \href{https://liveaiglobal.com/}{(LIVE AI)} \hfill Remote \\
+{Frontend Developer (Part-Time)} \hfill Jan 2025 -- Present
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Built a responsive web platform for LIVE AI's hackathon using \textbf{Astro}, \textbf{React}, TypeScript, and \textbf{Tailwind CSS}.
+    \item Secured sponsorship and over \$85,000 in funding from \textbf{Google Cloud} and \textbf{Amazon}.
+\end{itemize}
+
+
+\textbf{\normalsize CodePath} \hfill Remote \\
+{Technical Fellow (Part-Time)} \hfill Aug 2024 -- Present
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Mentored 40 students in algorithms, problem-solving, and \textbf{Python} programming for interview preparation.
+    \item Facilitated a technical program focused on promoting underrepresented individuals in tech.
+\end{itemize}
+
+
+\textbf{\normalsize AssetWorks Inc} \hfill Berwyn, PA \\
+{Software Engineer Intern} \hfill May 2024 -- Aug 2024
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Validated and documented 168+ API endpoints using \textbf{Postman} and \textbf{SQL} to improve API reliability and onboarding.
+    \item Automated API documentation with \textbf{Redocly} and \textbf{NSwagStudio}, reducing manual effort and keeping docs current.
+    \item Fixed backend bugs and improved data display by updating \textbf{C\#} logic for API response handling.
+\end{itemize}
+
+
+\textbf{\normalsize SnapRefund} \hfill Philadelphia, PA \\
+{Software Engineer Intern} \hfill Mar 2024 -- May 2024
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Built an interactive dashboard with \textbf{Vue} and \textbf{AG Grid}, tracking \$450,000+ in revenue.
+    \item Automated ACH return fee billing via \textbf{Stripe webhooks} and backend automation with \textbf{TypeScript} and NestJS.
+    \item Authored technical documentation for the ClaimsSnap API.
+\end{itemize}
+
+
+\textbf{\normalsize Temple University} \hfill Philadelphia, PA \\
+{HCI Research Assistant} \hfill Jan 2023 -- May 2024
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Developed study questions for an \textbf{ML} Chrome extension, evaluating data visualization comprehension for 100+ users.
+    \item Contributed to project planning for Piggyback Learning, developing AI tools for personalized education.
+    \item Built a learning web app using \textbf{Flask}, \textbf{Python}, and OpenAI for interactive virtual teaching.
+\end{itemize}
+
+
+% PROJECTS section
+
+\section*{\textbf{\normalsize PROJECTS}}
+
+% Yu-Gi-Oh! Deck Builder Project (replacing MochaMaps)
+\textbf{\normalsize Yu-Gi-Oh! Deck Builder} \href{https://github.com/icycoldveins/duel-master-builder}{(GitHub)}
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Built a web app for building, managing, and analyzing Yu-Gi-Oh! decks with a responsive UI.
+    \item Integrated a database of 12,000+ unique Yu-Gi-Oh! cards for comprehensive deck building and search.
+    \item Added card search, deck stats, and user auth using \textbf{React} (\textbf{TypeScript}), Vite, \textbf{Tailwind CSS}, Zustand, and \textbf{Supabase}.
+    \item Visualized deck composition, enabled decklist export/import, and integrated external card APIs.
+    \item Deployed to \textbf{Vercel} with rate-limited backend functions for secure, scalable access.
+\end{itemize}
+
+\textbf{\normalsize UserScript Library} \href{https://greasyfork.org/en/users/988096-icycoldveins}{(Greasy Fork)}
+\tightitems
+\begin{itemize}[leftmargin=2em]
+    \item Published JavaScript scripts on Greasy Fork, enhancing media downloading, site navigation, and user experience.
+    \item Achieved 300+ installations with positive user feedback.
+\end{itemize}
+
+\end{document}

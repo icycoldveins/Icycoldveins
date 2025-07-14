@@ -18,9 +18,8 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=tokyonight&hide_border=true"/>
   </a>
-  <p align="center"> Consistency is key to growth. </p>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -82,16 +81,8 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=icycoldveins&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=contribs" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
 </details>
 
