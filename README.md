@@ -96,6 +96,12 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
   <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&width=495" height="192px"/>
 </p>
 
+## 🐍 Snake Game
+
+<p align="center">
+  <img src="https://github.com/icycoldveins/icycoldveins/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
