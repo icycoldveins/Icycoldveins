@@ -14,6 +14,19 @@ Hi, I'm Kevin Wijaya!
 I'm a passionate and detail-oriented software engineer based in Philadelphia, PA. I recently graduated from Temple University (B.S. Computer Science, 2024). I enjoy building scalable web apps, mentoring others, and working with modern JavaScript frameworks. As a Tech Fellow at CodePath, I mentored students in algorithms and Python, and as a Software Engineer at SnapRefund, I built and improved digital payment solutions. Always eager to learn and take on new challenges!
 </samp>
 
+## 🏆 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=contest" alt="LeetCode Contest Rating"/>
+  </a>
+</p>
+
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -81,19 +94,6 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 <p align="center">
   <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" height="192px"/>
   <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&width=495" height="192px"/>
-</p>
-
-## 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=heatmap" alt="LeetCode Heatmap"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://leetcode.com/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=contest" alt="LeetCode Contest Rating"/>
-  </a>
 </p>
 
 ## 🙋‍♂️ Let's Connect
