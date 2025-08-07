@@ -122,4 +122,3 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 	<a href="https://github.com/icycoldveins" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kevin6302/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-ç
