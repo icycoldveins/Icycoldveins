@@ -44,6 +44,8 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
   </a>
 </p>
 
+<!-- If cards don't load, check: https://leetcode.com/icycoldveins/ -->
+
 ## 🔥 Streak Stats
 
 <p align="center">
