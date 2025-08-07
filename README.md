@@ -5,13 +5,14 @@ Hi, I'm Kevin Wijaya!
 
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <img src="https://img.shields.io/badge/Software_Engineer-2E3440?style=for-the-badge" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-2E3440?style=for-the-badge" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Always_Learning-2E3440?style=for-the-badge" alt="Always Learning">
 </p>
 <hr/>
 <samp>
-I'm a passionate and detail-oriented software engineer based in Philadelphia, PA. I recently graduated from Temple University (B.S. Computer Science, 2024). I enjoy building scalable web apps, mentoring others, and working with modern JavaScript frameworks. As a Tech Fellow at CodePath, I mentored students in algorithms and Python, and as a Software Engineer at SnapRefund, I built and improved digital payment solutions. Always eager to learn and take on new challenges!
+Software engineer based in Philadelphia. Temple University CS '24. Currently focused on full-stack development with React, TypeScript, and Node.js. Previously built payment systems at SnapRefund and mentored students in algorithms and Python at CodePath. I enjoy working on scalable web applications and solving interesting technical problems.
 </samp>
 
 ## 💼 Professional Experience
@@ -105,7 +106,7 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Cursor" src="https://img.shields.io/badge/Cursor%20AI-000000.svg?logo=cursor-ai&logoColor=white">
+    <img alt="VS Code Insiders" src="https://img.shields.io/badge/VS%20Code%20Insiders-1F1F1F.svg?logo=visual-studio-code&logoColor=green">
 </p>
 
 ## 📊 Github Stats
