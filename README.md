@@ -14,16 +14,33 @@ Hi, I'm Kevin Wijaya!
 I'm a passionate and detail-oriented software engineer based in Philadelphia, PA. I recently graduated from Temple University (B.S. Computer Science, 2024). I enjoy building scalable web apps, mentoring others, and working with modern JavaScript frameworks. As a Tech Fellow at CodePath, I mentored students in algorithms and Python, and as a Software Engineer at SnapRefund, I built and improved digital payment solutions. Always eager to learn and take on new challenges!
 </samp>
 
+## 💼 Professional Experience
+
+<p align="center">
+  <a href="https://www.snaprefund.io" target="_blank">
+    <img src="snap.png" alt="SnapRefund" height="60" style="margin: 0 15px;"/>
+  </a>
+  <a href="https://www.assetworks.com" target="_blank">
+    <img src="asset.png" alt="AssetWorks" height="60" style="margin: 0 15px;"/>
+  </a>
+  <a href="https://www.codepath.org" target="_blank">
+    <img src="codepath.png" alt="CodePath" height="60" style="margin: 0 15px;"/>
+  </a>
+  <a href="https://techtreeroot.org" target="_blank">
+    <img src="tree.png" alt="TechTreeRoot" height="60" style="margin: 0 15px;"/>
+  </a>
+</p>
+
 ## 🏆 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=heatmap" alt="LeetCode Heatmap"/>
+  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?ext=contest" alt="LeetCode Contest Rating"/>
+  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Contest Rating"/>
   </a>
 </p>
 
@@ -31,7 +48,7 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=tokyonight&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
 
@@ -92,8 +109,8 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 ## 📊 Github Stats
 
 <p align="center">
-  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" height="192px"/>
-  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&width=495" height="192px"/>
+  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=contribs" height="192px"/>
+  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&width=495" height="192px"/>
 </p>
 
 ## 🙋‍♂️ Let's Connect
@@ -103,3 +120,4 @@ I'm a passionate and detail-oriented software engineer based in Philadelphia, PA
 	<a href="https://github.com/icycoldveins" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kevin6302/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+ç
