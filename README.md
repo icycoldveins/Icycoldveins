@@ -88,7 +88,7 @@ Software engineer based in Philadelphia with expertise in full-stack development
 - Contributed to project planning for Piggyback Learning, developing AI tools for personalized education
 - Developed learning web app using Flask, Python, and OpenAI for interactive virtual teaching
 
-## 🚀 Notable Projects
+## 🚀 Projects
 
 ### **Yu-Gi-Oh! Deck Builder** - [GitHub Repository](https://github.com/icycoldveins)
 - Developed comprehensive web application for building, managing, and analyzing Yu-Gi-Oh! decks with responsive UI
