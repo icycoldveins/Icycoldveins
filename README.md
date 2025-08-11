@@ -30,6 +30,7 @@ Software engineer based in Philadelphia. Temple University CS '24. Currently foc
   <a href="https://techtreeroot.org" target="_blank">
     <img src="tree.png" alt="TechTreeRoot" height="60" style="margin: 0 15px;"/>
   </a>
+  <img src="cfp.png" alt="CFP" height="60" style="margin: 0 15px;"/>
 </p>
 
 ## 🏆 LeetCode
