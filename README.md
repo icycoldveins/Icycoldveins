@@ -12,7 +12,7 @@ Hi, I'm Kevin Wijaya!
 </p>
 <hr/>
 <samp>
-Software engineer based in Philadelphia. Temple University CS '24. Currently focused on full-stack development with React, TypeScript, and Node.js. Previously built payment systems at SnapRefund and mentored students in algorithms and Python at CodePath. I enjoy working on scalable web applications and solving interesting technical problems.
+Software engineer based in Philadelphia with expertise in full-stack development. Temple University CS '24 graduate specializing in React, Vue.js, TypeScript, and Node.js. Currently architecting payment and subscription systems at SnapRefund while mentoring 40+ underrepresented students in algorithms and Python at CodePath. Previously contributed to open-source projects like Phlask Maps and built comprehensive web applications. Passionate about creating scalable web applications and solving complex technical challenges.
 </samp>
 
 ## 💼 Professional Experience
@@ -32,6 +32,53 @@ Software engineer based in Philadelphia. Temple University CS '24. Currently foc
   </a>
   <img src="cfp.png" alt="CFP" height="60" style="margin: 0 15px;"/>
 </p>
+
+### **SnapRefund** - Software Engineer *(June 2025 – Present)*
+- Architected and developed the AgentSnap public API for digital refund workflows using Vue.js and TypeScript
+- Led frontend redesign initiatives, improving user experience and interface consistency
+- Engineered subscription functionality with Stripe API for recurring payments and automated billing
+- Previously as intern: Built interactive dashboard tracking $450,000+ in revenue using Vue and AG Grid
+- Automated ACH return fee billing via Stripe webhooks and backend automation with TypeScript and NestJS
+
+### **Tech Tree Root (LIVE AI)** - Web Developer *(Jan 2025 – Present)*
+- Developed responsive web platform for LIVE AI's hackathon using Astro, React, TypeScript, and Tailwind CSS
+- Secured sponsorship and over $85,000 in funding from Google Cloud and Amazon
+
+### **CodePath** - Technical Fellow *(Aug 2024 – Present)*
+- Mentored 40+ students in algorithms, problem-solving, and Python programming for interview preparation
+- Facilitated technical program focused on promoting underrepresented individuals in tech
+
+### **AssetWorks Inc** - Software Engineer Intern *(May 2024 – Aug 2024)*
+- Validated and documented 168+ API endpoints using Postman and SQL to improve API reliability and onboarding
+- Automated API documentation with Redocly and NSwagStudio, reducing manual effort and keeping docs current
+- Resolved backend bugs and improved data display by updating C# logic for API response handling
+
+### **Temple University** - HCI Research Assistant *(Jan 2023 – May 2024)*
+- Designed study questions for ML Chrome extension, evaluating data visualization comprehension for 100+ users
+- Contributed to project planning for Piggyback Learning, developing AI tools for personalized education
+- Developed learning web app using Flask, Python, and OpenAI for interactive virtual teaching
+
+## 🚀 Notable Projects
+
+### **Yu-Gi-Oh! Deck Builder** - [GitHub Repository](https://github.com/icycoldveins)
+- Developed comprehensive web application for building, managing, and analyzing Yu-Gi-Oh! decks with responsive UI
+- Integrated database of 12,000+ unique Yu-Gi-Oh! cards for comprehensive deck building and advanced search functionality
+- Implemented card search, deck statistics, and user authentication using React, Vite, Tailwind CSS, Zustand, and Supabase
+- Built deck composition visualization, decklist export/import features, and integrated external card APIs for real-time data
+
+### **Phlask Maps** - [Open Source Contribution](https://github.com/phlask)
+- Contributed to open-source progressive web app providing access to free water sources across Philadelphia
+- Implemented geolocation features and interactive map components using Redux and Google Maps API
+- Enhanced accessibility features and mobile responsiveness with proper resource tracking for community benefit
+
+## 🎓 Education
+
+**Georgia Institute of Technology** - Atlanta, GA  
+*Master of Science in Computer Science* *(Jan 2026 – Upcoming)*  
+
+**Temple University** - Philadelphia, PA  
+*Bachelor of Science in Computer Science* *(Aug 2020 – May 2024)*  
+**Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Object Oriented Programming, Software Design
 
 ## 🏆 LeetCode
 
