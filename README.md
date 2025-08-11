@@ -15,6 +15,36 @@ Hi, I'm Kevin Wijaya!
 Software engineer based in Philadelphia with expertise in full-stack development. Temple University CS '24 graduate specializing in React, Vue.js, TypeScript, and Node.js. Currently architecting payment and subscription systems at SnapRefund while mentoring 40+ underrepresented students in algorithms and Python at CodePath. Previously contributed to open-source projects like Phlask Maps and built comprehensive web applications. Passionate about creating scalable web applications and solving complex technical challenges.
 </samp>
 
+## 🏆 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Contest Rating"/>
+  </a>
+</p>
+
+<!-- If cards don't load, check: https://leetcode.com/icycoldveins/ -->
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=gruvbox&hide_border=true"/>
+  </a>
+</p>
+
+## 📊 Github Stats
+
+<p align="center">
+  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=contribs" height="192px"/>
+  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&width=495" height="192px"/>
+</p>
+
 ## 💼 Professional Experience
 
 <p align="center">
@@ -80,29 +110,6 @@ Software engineer based in Philadelphia with expertise in full-stack development
 *Bachelor of Science in Computer Science* *(Aug 2020 – May 2024)*  
 **Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Object Oriented Programming, Software Design
 
-## 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Contest Rating"/>
-  </a>
-</p>
-
-<!-- If cards don't load, check: https://leetcode.com/icycoldveins/ -->
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=gruvbox&hide_border=true"/>
-  </a>
-</p>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming and Markup Languages
@@ -155,13 +162,6 @@ Software engineer based in Philadelphia with expertise in full-stack development
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="VS Code Insiders" src="https://img.shields.io/badge/VS%20Code%20Insiders-1F1F1F.svg?logo=visual-studio-code&logoColor=green">
-</p>
-
-## 📊 Github Stats
-
-<p align="center">
-  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=contribs" height="192px"/>
-  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&width=495" height="192px"/>
 </p>
 
 ## 🙋‍♂️ Let's Connect
