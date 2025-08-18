@@ -12,7 +12,7 @@ Hi, I'm Kevin Wijaya!
 </p>
 <hr/>
 
-Software engineer based in Philadelphia with expertise in full-stack development. Temple University CS '24 graduate specializing in React, Vue.js, TypeScript, and Node.js. Currently architecting payment and subscription systems at SnapRefund while mentoring 40+ underrepresented students in algorithms and Python at CodePath. Previously contributed to open-source projects such as [Phlask Maps](https://github.com/phlask/phlask-map) and built comprehensive web applications. Passionate about creating scalable web applications and solving complex technical challenges.
+Software engineer based in Philadelphia with expertise in full-stack development. Temple University CS '24 graduate, currently pursuing MS in Computer Science with Machine Learning concentration at Georgia Tech. Specializing in React, Vue.js, TypeScript, and Node.js. Currently architecting payment and subscription systems at SnapRefund while mentoring 40+ underrepresented students in algorithms and Python at CodePath. Previously contributed to open-source projects such as [Phlask Maps](https://github.com/phlask/phlask-map) and built comprehensive web applications. Passionate about creating scalable web applications and solving complex technical challenges.
 
 ## 🏆 LeetCode
 
@@ -107,7 +107,7 @@ Software engineer based in Philadelphia with expertise in full-stack development
 ## 🎓 Education
 
 **Georgia Institute of Technology** - Atlanta, GA  
-*Master of Science in Computer Science* *(Jan 2026 – Upcoming)*  
+*Master of Science in Computer Science (Machine Learning Concentration)* *(Jan 2025 – May 2027)*  
 
 **Temple University** - Philadelphia, PA  
 *Bachelor of Science in Computer Science* *(Aug 2020 – May 2024)*  
