@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeetCode Stats - icycoldveins</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            margin: 0;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            margin-bottom: 30px;
+        }
+        
+        .card-container {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px 0;
+        }
+        
+        .leetcode-card {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            display: block;
+            margin: 0 auto;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            background: #161b22;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .error {
+            background: #21262d;
+            border: 1px solid #f85149;
+            color: #f85149;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        .fallback-link {
+            display: inline-block;
+            background: #238636;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 10px;
+            transition: background 0.3s;
+        }
+        
+        .fallback-link:hover {
+            background: #2ea043;
+        }
+        
+        .refresh-btn {
+            background: #1f6feb;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px;
+            transition: background 0.3s;
+        }
+        
+        .refresh-btn:hover {
+            background: #388bfd;
+        }
+        
+        .status {
+            text-align: center;
+            margin: 10px 0;
+            font-size: 14px;
+            color: #8b949e;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏆 LeetCode Statistics</h1>
+    
+    <div class="card-container">
+        <div id="stats-loading" class="loading">Loading LeetCode stats...</div>
+        <img id="stats-card" 
+             class="leetcode-card" 
+             style="display: none;"
+             alt="LeetCode Stats">
+        <div id="stats-error" class="error" style="display: none;">
+            <p>Unable to load LeetCode statistics</p>
+            <a href="https://leetcode.com/u/icycoldveins/" target="_blank" class="fallback-link">
+                View Profile on LeetCode
+            </a>
+        </div>
+    </div>
+    
+    <div class="card-container">
+        <div id="contest-loading" class="loading">Loading contest rating...</div>
+        <img id="contest-card" 
+             class="leetcode-card" 
+             style="display: none;"
+             alt="LeetCode Contest Rating">
+        <div id="contest-error" class="error" style="display: none;">
+            <p>Unable to load contest rating</p>
+            <a href="https://leetcode.com/u/icycoldveins/" target="_blank" class="fallback-link">
+                View Profile on LeetCode
+            </a>
+        </div>
+    </div>
+    
+    <button class="refresh-btn" onclick="loadCards()">Refresh Cards</button>
+    <div class="status" id="status"></div>
+    
+    <script>
+        const username = 'icycoldveins';
+        const baseUrl = 'https://leetcard.jacoblin.cool';
+        const timeout = 10000; // 10 seconds timeout
+        
+        function loadCard(cardId, loadingId, errorId, extension) {
+            const card = document.getElementById(cardId);
+            const loading = document.getElementById(loadingId);
+            const error = document.getElementById(errorId);
+            
+            // Reset display states
+            loading.style.display = 'block';
+            card.style.display = 'none';
+            error.style.display = 'none';
+            
+            // Add timestamp to prevent caching
+            const timestamp = new Date().getTime();
+            const url = `${baseUrl}/${username}?theme=dark&font=source_code_pro&ext=${extension}&t=${timestamp}`;
+            
+            // Create new image to test loading
+            const testImg = new Image();
+            let loadTimeout;
+            
+            testImg.onload = function() {
+                clearTimeout(loadTimeout);
+                card.src = url;
+                card.style.display = 'block';
+                loading.style.display = 'none';
+                updateStatus('Cards loaded successfully');
+            };
+            
+            testImg.onerror = function() {
+                clearTimeout(loadTimeout);
+                loading.style.display = 'none';
+                error.style.display = 'block';
+                updateStatus('Failed to load some cards - service may be down');
+            };
+            
+            // Set timeout
+            loadTimeout = setTimeout(() => {
+                testImg.src = ''; // Cancel loading
+                loading.style.display = 'none';
+                error.style.display = 'block';
+                updateStatus('Loading timeout - service may be slow');
+            }, timeout);
+            
+            testImg.src = url;
+        }
+        
+        function loadCards() {
+            updateStatus('Loading cards...');
+            loadCard('stats-card', 'stats-loading', 'stats-error', 'heatmap');
+            loadCard('contest-card', 'contest-loading', 'contest-error', 'contest');
+        }
+        
+        function updateStatus(message) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            
+            // Add timestamp
+            const time = new Date().toLocaleTimeString();
+            status.textContent = `${message} (${time})`;
+        }
+        
+        // Auto-refresh every 5 minutes
+        setInterval(loadCards, 300000);
+        
+        // Load cards on page load
+        window.addEventListener('load', loadCards);
+        
+        // Retry loading if page becomes visible (tab switching)
+        document.addEventListener('visibilitychange', function() {
+            if (!document.hidden) {
+                loadCards();
+            }
+        });
+    </script>
+</body>
+</html>

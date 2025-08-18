@@ -19,16 +19,20 @@ Software engineer based in Philadelphia with expertise in full-stack development
 
 <p align="center">
   <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=heatmap&cache=300" alt="LeetCode Stats" onerror="this.onerror=null; this.src='https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white'; this.alt='View LeetCode Profile'"/>
   </a>
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/icycoldveins/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Contest Rating"/>
+    <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest&cache=300" alt="LeetCode Contest Rating" onerror="this.onerror=null; this.src='https://img.shields.io/badge/Contest-Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white'; this.alt='View Contest Rating'"/>
   </a>
 </p>
 
-<!-- If cards don't load, check: https://leetcode.com/icycoldveins/ -->
+<!-- Fallback: If cards don't load, visit: https://leetcode.com/u/icycoldveins/ -->
+<!-- Alternative services: 
+     - https://leetcode-stats-api.herokuapp.com/icycoldveins
+     - https://leetcode-badge.haozibi.dev/v1/?username=icycoldveins
+-->
 
 ## 🔥 Streak Stats
 
