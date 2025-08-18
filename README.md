@@ -73,8 +73,9 @@ Software engineer based in Philadelphia with expertise in full-stack development
 - Previously as intern: Built interactive dashboard tracking $450,000+ in revenue using Vue and AG Grid
 - Automated ACH return fee billing via Stripe webhooks and backend automation with TypeScript and NestJS
 
-### **Tech Tree Root (LIVE AI)** - Web Developer *(Jan 2025 – Present)*
-- Developed responsive web platform for LIVE AI's hackathon using Astro, React, TypeScript, and Tailwind CSS
+### **Tech Tree Root (LIVE AI)** - Full Stack Developer *(Jan 2025 – Present)*
+- Developed responsive frontend and backend systems for LIVE AI's hackathon platform using Astro, React, TypeScript, and Tailwind CSS
+- Built interactive features and API integrations to support hackathon participant registration and event management
 - Secured sponsorship and over $85,000 in funding from Google Cloud and Amazon
 
 ### **CodePath** - Technical Fellow *(Aug 2024 – Present)*
@@ -99,8 +100,8 @@ Software engineer based in Philadelphia with expertise in full-stack development
 - Implemented card search, deck statistics, and user authentication using React, Vite, Tailwind CSS, Zustand, and Supabase
 - Built deck composition visualization, decklist export/import features, and integrated external card APIs for real-time data
 
-### **Phlask Maps** - [Open Source Contribution](https://github.com/phlask)
-- Contributed to open-source progressive web app providing access to free water sources across Philadelphia
+### **Phlask Maps (Code for Philly)** - [Open Source Contribution](https://github.com/phlask)
+- Contributed to Code for Philly's open-source progressive web app providing access to free water sources across Philadelphia
 - Implemented geolocation features and interactive map components using Redux and Google Maps API
 - Enhanced accessibility features and mobile responsiveness with proper resource tracking for community benefit
 
