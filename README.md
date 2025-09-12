@@ -12,7 +12,7 @@ Hi, I'm Kevin Wijaya!
 </p>
 <hr/>
 
-Software engineer based in Philadelphia with expertise in full-stack development. Temple University CS '24 graduate, currently pursuing MS in Computer Science with Machine Learning concentration at Georgia Tech. Specializing in React, Vue.js, TypeScript, and Node.js. Currently architecting payment and subscription systems at SnapRefund while mentoring 40+ underrepresented students in algorithms and Python at CodePath. Contributing to open-source projects such as [Phlask Maps](https://github.com/phlask/phlask-map) and [Flux](https://github.com/black-forest-labs/flux) while building comprehensive web applications. Passionate about creating scalable web applications and solving complex technical challenges.
+Full-stack developer passionate about building scalable web applications and solving complex technical challenges. Currently working at SnapRefund and mentoring students at CodePath.
 
 ## 🏆 LeetCode
 
@@ -47,50 +47,6 @@ Software engineer based in Philadelphia with expertise in full-stack development
   <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=contribs" height="192px"/>
   <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&width=495" height="192px"/>
 </p>
-
-## 💼 Professional Experience
-
-<p align="center">
-  <a href="https://www.snaprefund.io" target="_blank">
-    <img src="snap.png" alt="SnapRefund" height="60" style="margin: 0 15px;"/>
-  </a>
-  <a href="https://www.assetworks.com" target="_blank">
-    <img src="asset.png" alt="AssetWorks" height="60" style="margin: 0 15px;"/>
-  </a>
-  <a href="https://www.codepath.org" target="_blank">
-    <img src="codepath.png" alt="CodePath" height="60" style="margin: 0 15px;"/>
-  </a>
-  <a href="https://techtreeroot.org" target="_blank">
-    <img src="tree.png" alt="TechTreeRoot" height="60" style="margin: 0 15px;"/>
-  </a>
-  <img src="cfp.png" alt="CFP" height="60" style="margin: 0 15px;"/>
-</p>
-
-### **SnapRefund** - Software Engineer *(June 2025 – Present)*
-- Architected and developed the AgentSnap public API for digital refund workflows using Vue.js and TypeScript
-- Led frontend redesign initiatives, improving user experience and interface consistency
-- Engineered subscription functionality with Stripe API for recurring payments and automated billing
-- Previously as intern: Built interactive dashboard tracking $450,000+ in revenue using Vue and AG Grid
-- Automated ACH return fee billing via Stripe webhooks and backend automation with TypeScript and NestJS
-
-### **Tech Tree Root (LIVE AI)** - Full Stack Developer *(Jan 2025 – Present)*
-- Developed responsive frontend and backend systems for LIVE AI's hackathon platform using Astro, React, TypeScript, and Tailwind CSS
-- Built interactive features and API integrations to support hackathon participant registration and event management
-- Secured sponsorship and over $85,000 in funding from Google Cloud and Amazon
-
-### **CodePath** - Technical Fellow *(Aug 2024 – Present)*
-- Mentored 40+ students in algorithms, problem-solving, and Python programming for interview preparation
-- Facilitated technical program focused on promoting underrepresented individuals in tech
-
-### **AssetWorks Inc** - Software Engineer Intern *(May 2024 – Aug 2024)*
-- Validated and documented 168+ API endpoints using Postman and SQL to improve API reliability and onboarding
-- Automated API documentation with Redocly and NSwagStudio, reducing manual effort and keeping docs current
-- Resolved backend bugs and improved data display by updating C# logic for API response handling
-
-### **Temple University** - HCI Research Assistant *(Jan 2023 – May 2024)*
-- Designed study questions for ML Chrome extension, evaluating data visualization comprehension for 100+ users
-- Contributed to project planning for Piggyback Learning, developing AI tools for personalized education
-- Developed learning web app using Flask, Python, and OpenAI for interactive virtual teaching
 
 ## 🚀 Projects
 
