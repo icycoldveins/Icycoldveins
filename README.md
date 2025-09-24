@@ -66,10 +66,6 @@ Full-stack developer passionate about building scalable web applications and sol
 **Georgia Institute of Technology** - Atlanta, GA  
 *Master of Science in Computer Science (Machine Learning Concentration)* *(Jan 2025 – May 2027)*  
 
-**Temple University** - Philadelphia, PA  
-*Bachelor of Science in Computer Science* *(Aug 2020 – May 2024)*  
-**Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Object Oriented Programming, Software Design
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming and Markup Languages
