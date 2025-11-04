@@ -33,6 +33,7 @@ Full-stack developer passionate about building scalable web applications and sol
      - https://leetcode-badge.haozibi.dev/v1/?username=icycoldveins
 -->
 
+<!--
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -40,6 +41,7 @@ Full-stack developer passionate about building scalable web applications and sol
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
+-->
 
 ## 📊 Github Stats
 
