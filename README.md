@@ -14,6 +14,7 @@ Hi, I'm Kevin Wijaya!
 
 Full-stack developer passionate about building scalable web applications and solving complex technical challenges. Currently working at SnapRefund and mentoring students at CodePath.
 
+<!--
 ## 🏆 LeetCode
 
 <p align="center">
@@ -26,6 +27,7 @@ Full-stack developer passionate about building scalable web applications and sol
     <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest&cache=300" alt="LeetCode Contest Rating" onerror="this.onerror=null; this.src='https://img.shields.io/badge/Contest-Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white'; this.alt='View Contest Rating'"/>
   </a>
 </p>
+-->
 
 <!-- Fallback: If cards don't load, visit: https://leetcode.com/u/icycoldveins/ -->
 <!-- Alternative services: 
@@ -33,7 +35,7 @@ Full-stack developer passionate about building scalable web applications and sol
      - https://leetcode-badge.haozibi.dev/v1/?username=icycoldveins
 -->
 
-<!--
+
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -41,7 +43,7 @@ Full-stack developer passionate about building scalable web applications and sol
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=icycoldveins&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
--->
+
 
 ## 📊 Github Stats
 
