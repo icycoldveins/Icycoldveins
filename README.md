@@ -10,9 +10,7 @@ Hi, I'm Kevin Wijaya!
   <img src="https://img.shields.io/badge/Full_Stack_Developer-2E3440?style=for-the-badge" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/Always_Learning-2E3440?style=for-the-badge" alt="Always Learning">
 </p>
-<hr/>
 
-Full-stack developer passionate about building scalable web applications and solving complex technical challenges. Currently working at SnapRefund and mentoring students at CodePath.
 
 <!--
 ## 🏆 LeetCode
