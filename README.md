@@ -1,11 +1,3 @@
-<h1 align="center">
-Hi, I'm Kevin Wijaya!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
-
-<br/>
-
-
 <!--
 ## 🏆 LeetCode
 
@@ -19,12 +11,6 @@ Hi, I'm Kevin Wijaya!
     <img src="https://leetcard.jacoblin.cool/icycoldveins?theme=dark&font=source_code_pro&ext=contest&cache=300" alt="LeetCode Contest Rating" onerror="this.onerror=null; this.src='https://img.shields.io/badge/Contest-Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white'; this.alt='View Contest Rating'"/>
   </a>
 </p>
--->
-
-<!-- Fallback: If cards don't load, visit: https://leetcode.com/u/icycoldveins/ -->
-<!-- Alternative services: 
-     - https://leetcode-stats-api.herokuapp.com/icycoldveins
-     - https://leetcode-badge.haozibi.dev/v1/?username=icycoldveins
 -->
 
 
