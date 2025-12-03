@@ -22,14 +22,6 @@
   </a>
 </p>
 
-
-## 📊 Github Stats
-
-<p align="center">
-  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icycoldveins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=contribs" height="192px"/>
-  <img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icycoldveins&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&width=495" height="192px"/>
-</p>
-
 ## 🚀 Projects
 
 ### **Yu-Gi-Oh! Deck Builder** - [GitHub Repository](https://github.com/icycoldveins)
