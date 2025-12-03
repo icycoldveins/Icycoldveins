@@ -5,12 +5,6 @@ Hi, I'm Kevin Wijaya!
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-2E3440?style=for-the-badge" alt="Software Engineer">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-2E3440?style=for-the-badge" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Always_Learning-2E3440?style=for-the-badge" alt="Always Learning">
-</p>
-
 
 <!--
 ## 🏆 LeetCode
