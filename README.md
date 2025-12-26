@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=icycoldveins&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=icycoldveins&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 ## 🎓 Education
