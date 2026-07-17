@@ -7,7 +7,7 @@
 ## 🎓 Education
 
 **Georgia Institute of Technology** - Atlanta, GA  
-*Master of Science in Computer Science (Machine Learning Concentration)* *(Jan 2025 – May 2027)*  
+*Master of Science in Computer Science* (Jan 2026 – May 2027)*  
 
 ## 🛠️ My Favorite Tools
 
