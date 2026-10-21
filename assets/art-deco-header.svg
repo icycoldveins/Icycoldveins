@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Kevin Wijaya, Icycoldveins, currently at Capital One">
+<rect width="960" height="260" fill="#0c3028"/>
+<g fill="none" stroke="#c5a15b" stroke-width="1.5">
+  <path d="M40 26H920V234H40Z" opacity=".8"/>
+  <path d="M58 44H410 M550 44H902V216H750 M210 216H58V44" opacity=".45"/>
+
+</g>
+<g transform="translate(480 44)" fill="none" stroke="#c5a15b" stroke-width="1.3">
+  <path d="M0 0V32 M-5 30L-20 5 M5 30L20 5 M-10 32L-35 14 M10 32L35 14 M-15 34L-48 25 M15 34L48 25"/>
+  <path d="M-4 37l4-4 4 4-4 4z" fill="#c5a15b"/>
+</g>
+<text x="480" y="125" text-anchor="middle" fill="#f1e7d0" font-family="Georgia,serif" font-size="54" letter-spacing="6">KEVIN WIJAYA</text>
+<text x="480" y="163" text-anchor="middle" fill="#c5a15b" font-family="Arial,sans-serif" font-size="20" letter-spacing="4">ICYCOLDVEINS</text>
+<path d="M390 186h180" stroke="#c5a15b" stroke-width="1" opacity=".75"/>
+<text x="480" y="216" text-anchor="middle" fill="#f1e7d0" font-family="Arial,sans-serif" font-size="21" letter-spacing="1">Currently at Capital One</text>
+</svg>
