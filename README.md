@@ -4,20 +4,29 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <strong>Kevin Wijaya</strong><br/>
+  Currently at Capital One.
+</p>
+
+## Education
+
+<table>
+  <tr>
+    <td><img src="assets/temple-logo.svg" alt="Temple University logo" width="48"/></td>
+    <td><strong>Temple University</strong><br/>B.S. in Computer Science<br/>Class of 2024 · Philadelphia, PA</td>
+  </tr>
+</table>
+
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=icycoldveins&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
-## 🎓 Education
+## Favorite tools
 
-**Georgia Institute of Technology** - Atlanta, GA  
-*Master of Science in Computer Science* (Jan 2026 – May 2027)*  
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming and Markup Languages
+### Programming and markup languages
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
@@ -32,7 +41,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
 </p>
 
-### 🧰 Frameworks and Libraries
+### Frameworks and libraries
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -52,7 +61,7 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### Databases and cloud hosting
 
 <p>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
@@ -61,7 +70,7 @@
     <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
 </p>
 
-### 💻 Software and Tools
+### Software and tools
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
@@ -69,7 +78,7 @@
     <img alt="VS Code Insiders" src="https://img.shields.io/badge/VS%20Code%20Insiders-1F1F1F.svg?logo=visual-studio-code&logoColor=green">
 </p>
 
-## 🙋‍♂️ Let's Connect
+## Let's connect
 
 <p align="center">
 	<a href="mailto:kevinwijaya306@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
